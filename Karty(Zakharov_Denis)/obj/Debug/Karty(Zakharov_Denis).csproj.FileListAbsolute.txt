@@ -1,0 +1,11 @@
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\bin\Debug\Karty(Zakharov_Denis).exe.config
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\bin\Debug\Karty(Zakharov_Denis).exe
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\bin\Debug\Karty(Zakharov_Denis).pdb
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty(Zakharov_Denis).csprojResolveAssemblyReference.cache
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty_Zakharov_Denis_.Form1.resources
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty_Zakharov_Denis_.Pole.resources
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty_Zakharov_Denis_.Properties.Resources.resources
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty(Zakharov_Denis).csproj.GenerateResource.Cache
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty(Zakharov_Denis).exe
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty(Zakharov_Denis).pdb
+Z:\C#_Itog\IR_project_(FIO)\Karty(Zakharov_Denis)\obj\Debug\Karty_Zakharov_Denis_.Settings.resources
